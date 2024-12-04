@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mandeep Sharma
 - 👀 I’m interested in WEB Developmment and Practicing DSA regularly 
 - 🌱 I’m currently learning Web dev and core DSA in JAVA
-- 📫 How to reach me Contact me on my Gmail - mandeepsharma0071@gmail.com
+- 📫 How to reach me Contact me on my Gmail - mandeepsharma0701@gmail.com
